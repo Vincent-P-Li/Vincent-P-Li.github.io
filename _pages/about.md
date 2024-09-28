@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year psychology undergraduate from [University of Edinburgh](https://www.ed.ac.uk/). My research interest is very broad, but majorly includes how people acquire and comprehend language in different social contexts and during communication (verbally or virtually). 
+I am a third-year psychology undergraduate from [University of Edinburgh](https://www.ed.ac.uk/). My research interest is very broad, but majorly includes how people acquire and comprehend language in different social contexts and during communication (verbally or virtually). (Skills)
 
-I am currently working on...
+I am currently working on... (Projects)
+
+(BPS ambassador; Student rep)
 
 Other
 ======
